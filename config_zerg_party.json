@@ -1,23 +1,23 @@
 {
 	"pools":[
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
-		"timeout": 120
+		"name": "Luckpool",
+        	"url": "stratum+tcp://eu.luckpool.net:3960",
+		"timeout": 150
 	},
 	{
-		"name": "Zergpool2",
-        	"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
-		"timeout": 120
+		"name": "Luckpool2",
+        	"url": "stratum+tcp://eu.luckpool.net:3957",
+		"timeout": 150
 	},
 	{
-		"name": "Zergpool3",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
-		"timeout": 120
+		"name": "Luckpool3",
+        	"url": "stratum+tcp://eu.luckpool.net:3956",
+		"timeout": 150
 	}
 	],
-	"user": "RJ36oBZGHfT9uKv4m6Nxxng1EiMCk21pMb",
-	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=RedmiNote_5",
+	"user": "RJ36oBZGHfT9uKv4m6Nxxng1EiMCk21pMb.RedmiNote_5",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
